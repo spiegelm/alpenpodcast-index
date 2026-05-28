@@ -1,0 +1,292 @@
+1
+00:00:00,411 --> 00:00:04,595
+Lenz Jacobsen: Wir fragen, warum eigentlich und wie werden sie überhaupt finanziert?
+
+2
+00:00:04,615 --> 00:00:07,157
+Lenz Jacobsen: Gerade in Österreich gibt es dafür einen Anlass.
+
+3
+00:00:07,197 --> 00:00:12,742
+Lenz Jacobsen: Und wir reden im zweiten Thema darüber, dass Matthias echt die Hutschnur platzt.
+
+4
+00:00:12,762 --> 00:00:14,163
+Lenz Jacobsen: Wie sagt man?
+
+5
+00:00:14,183 --> 00:00:16,165
+Lenz Jacobsen: Der Kragen platzt, die Hutschnur geht.
+
+6
+00:00:16,185 --> 00:00:17,205
+Florian Gasser: Der Hut geht hoch.
+
+7
+00:00:17,406 --> 00:00:20,869
+Matthias Daum: Nein, die Hutschnur platzt, der Hut lupft einem unter Kragen.
+
+8
+00:00:20,909 --> 00:00:22,070
+Florian Gasser: Die Hutschnur platzt.
+
+9
+00:00:26,832 --> 00:00:35,236
+Lenz Jacobsen: Der Wutbürger Daum möchte seinen Enger managen, indem er uns erzählt, dass alles besser wird, was die Buchung internationaler Zugverbindungen angeht.
+
+10
+00:00:35,256 --> 00:00:38,297
+Lenz Jacobsen: Nach dieser kryptischen Ankündigung wirst du uns aufklären müssen.
+
+11
+00:00:38,317 --> 00:00:42,859
+Lenz Jacobsen: Wir sind erreichbar unter alpenzeit.de per Mail und per Sprachnachricht an die WhatsApp-Nummer.
+
+12
+00:00:43,099 --> 00:00:45,903
+Lenz Jacobsen: in den Shownotes.
+
+13
+00:00:45,923 --> 00:00:49,208
+Lenz Jacobsen: Und wir haben diesmal tatsächlich auch keinerlei Ankündigungen mehr zu treffen.
+
+14
+00:00:49,228 --> 00:00:51,351
+Lenz Jacobsen: Dass wir in Graz sind, wissen ja, glaube ich, mittlerweile alle.
+
+15
+00:00:51,371 --> 00:00:52,953
+Lenz Jacobsen: Und ausverkauft ist das.
+
+16
+00:00:53,514 --> 00:00:54,436
+Lenz Jacobsen: Ich freue mich schon sehr.
+
+17
+00:00:54,476 --> 00:00:55,938
+Lenz Jacobsen: Ich werde mit dem Fahrrad kommen.
+
+18
+00:00:55,978 --> 00:00:57,841
+Matthias Daum: Sollten wir nicht mal bald über Fußball sprechen?
+
+19
+00:00:58,421 --> 00:00:59,282
+Florian Gasser: Nein.
+
+20
+00:00:59,322 --> 00:01:00,723
+Lenz Jacobsen: Ich glaube, Florian freut sich schon.
+
+21
+00:01:00,763 --> 00:01:02,844
+Lenz Jacobsen: Sollen wir über Fußball sprechen, Florian?
+
+22
+00:01:02,864 --> 00:01:05,066
+Florian Gasser: Wir müssen nicht zu früh anfangen mit dem Schmus.
+
+23
+00:01:05,086 --> 00:01:06,547
+Florian Gasser: Das geht ja auch nur ewig, oder?
+
+24
+00:01:07,167 --> 00:01:09,549
+Matthias Daum: Stimmt.
+
+25
+00:01:09,569 --> 00:01:12,611
+Lenz Jacobsen: Du meinst, du solltest erst darüber sprechen, wenn es Österreich ins Finale geschafft hat.
+
+26
+00:01:12,931 --> 00:01:15,413
+Florian Gasser: Nein, ich würde mich sogar aufs Viertelfinale einlassen.
+
+27
+00:01:16,434 --> 00:01:17,795
+Lenz Jacobsen: Okay, wir werden dich daran erinnern.
+
+28
+00:01:22,858 --> 00:01:26,080
+Monika Pielert: Hallo, ich bin Monika Pielert und zuständig für unsere Nachrichten.
+
+29
+00:01:26,120 --> 00:01:35,726
+Monika Pielert: Wir sorgen mit einem Team von 60 festen und freien Mitarbeitenden dafür, dass Sie rund um die Uhr bestens aktuell informiert sind über alles, was in der Welt und in Deutschland passiert.
+
+30
+00:01:35,746 --> 00:01:39,348
+Monika Pielert: Egal, ob Sie uns hören, lesen oder unsere Live-Blogs verfolgen.
+
+31
+00:01:39,368 --> 00:01:41,890
+Monika Pielert: Ihr Vertrauen ist dabei unser Ansporn.
+
+32
+00:01:41,910 --> 00:01:44,872
+Monika Pielert: Mit Ihrem Abonnement finanzieren Sie unseren Journalismus.
+
+33
+00:01:44,892 --> 00:01:49,555
+Monika Pielert: Alle Infos dazu finden Sie auf www.zeit.de slash abonnieren.
+
+34
+00:01:54,682 --> 00:01:55,842
+Lenz Jacobsen: Aber zuerst reden wir über die Unis.
+
+35
+00:01:55,862 --> 00:02:03,164
+Lenz Jacobsen: Florian, bei euch soll das Budget für die Unis gekürzt werden und zwar so heftig, dass von einem Zitat Supergau die Rede ist.
+
+36
+00:02:03,204 --> 00:02:03,744
+Lenz Jacobsen: Was ist da los?
+
+37
+00:02:04,204 --> 00:02:22,888
+Florian Gasser: Ja, also beim Wort Supergau hat es mich auch mal kurz gerüttelt, weil das sagen nicht irgendwie aufgeregte Aktivistinnen und Aktivisten oder die Hochschülerschaft, die ist ja auch oft so recht auf Radau, sondern in dem Fall war das die Rektorin der Kunstuni Linz, Brigitte Hütter, die übrigens auch, also die ist Präsidentin der Universitätenkonferenz.
+
+38
+00:02:23,548 --> 00:02:29,469
+Matthias Daum: Und was ist jetzt der Unterschied zwischen aufgeregten Studiaktivistinnen und der Cheflobbyistin der österreichischen Unis?
+
+39
+00:02:29,509 --> 00:02:35,511
+Florian Gasser: Ja, dass es halt schon am Ende eine Wissenschaftlerin ist, die jetzt normalerweise nicht mit Transparenten herumläuft.
+
+40
+00:02:35,551 --> 00:02:36,631
+Lenz Jacobsen: Worum geht es denn?
+
+41
+00:02:36,791 --> 00:02:38,371
+Lenz Jacobsen: Was soll der Super-GAU sein?
+
+42
+00:02:38,391 --> 00:02:40,012
+Lenz Jacobsen: Von welchen Summen reden wir?
+
+43
+00:02:40,052 --> 00:02:47,114
+Florian Gasser: Also wir haben in diesem Podcast ja schon häufiger davon gesprochen, dass Österreich ein ziemlich großes Budgetproblem hat.
+
+44
+00:02:47,154 --> 00:02:48,794
+Florian Gasser: Also in Wahrheit ist es ein riesiges Budgetloch.
+
+45
+00:02:48,834 --> 00:02:50,574
+Florian Gasser: Es fehlen viele Milliarden.
+
+46
+00:02:50,614 --> 00:02:53,055
+Florian Gasser: Es gab jetzt schon mal ein Doppelbudget.
+
+47
+00:02:53,875 --> 00:03:00,499
+Florian Gasser: Da wurde gespart und jetzt kommt das nächste Doppelbudget, das soll vor dem Sommer noch beschlossen werden für 27, 28.
+
+48
+00:03:00,559 --> 00:03:04,881
+Florian Gasser: Es wird wieder ein Sparbudget und es geht ans Eingemachte.
+
+49
+00:03:04,941 --> 00:03:19,008
+Florian Gasser: Und vergangene Woche wurde bekannt, oder es wurde bekannt, es ist zu viel, sagen wir mal so, es kamen nicht sehr heftig dementierte Gerüchte auf, nachdem die öffentlichen Universitäten für die nächsten drei Jahre eine Milliarde Euro weniger bekommen sollen.
+
+50
+00:03:19,650 --> 00:03:23,692
+Lenz Jacobsen: Aber du hast das jetzt so selbstverständlich gesagt, dass es ein massives Budgetproblem gäbe.
+
+51
+00:03:23,712 --> 00:03:25,433
+Lenz Jacobsen: Da sprechen wir aber vom Bundeshaushalt.
+
+52
+00:03:25,633 --> 00:03:26,094
+Florian Gasser: Genau.
+
+53
+00:03:26,134 --> 00:03:29,075
+Lenz Jacobsen: Das heißt, die Universitäten werden bei euch vom Bund finanziert?
+
+54
+00:03:29,115 --> 00:03:30,756
+Florian Gasser: Zum überwältigenden Teil, ja.
+
+55
+00:03:30,776 --> 00:03:32,798
+Florian Gasser: Und zwar immer auf drei Jahre.
+
+56
+00:03:32,838 --> 00:03:35,799
+Florian Gasser: Also zuletzt waren das 16,5 Milliarden Euro.
+
+57
+00:03:35,939 --> 00:03:42,123
+Florian Gasser: Und da sind wir aber, darüber reden wir ja noch, also das ist schon nach vielen Sparrunden am unteren Ende der Möglichkeiten.
+
+58
+00:03:42,683 --> 00:03:47,649
+Matthias Daum: Aber nur mal kurz, damit die da keine Missverständnisse aufkommen lassen oder von den selben Zahlen sprechen.
+
+59
+00:03:47,709 --> 00:03:53,736
+Matthias Daum: Also 16,5 Milliarden Euro, das wären dann aufs Jahr gerechnet 5,5 Milliarden Euro.
+
+60
+00:03:53,756 --> 00:03:54,236
+Florian Gasser: Genau.
+
+61
+00:03:54,276 --> 00:03:56,158
+Matthias Daum: Also etwas mehr als 5 Milliarden Franken.
+
+62
+00:03:56,238 --> 00:03:58,161
+Florian Gasser: Genau, genau, genau.
+
+63
+00:03:58,181 --> 00:04:02,806
+Florian Gasser: Die Unis sagen, wegen Inflation und Teuerung bräuchten sie eigentlich 18 Milliarden.
+
+64
+00:04:03,947 --> 00:04:08,971
+Florian Gasser: Für die nächsten drei Jahre, um so im Grunde weiter zu wurschteln können wie bisher.
+
+65
+00:04:08,991 --> 00:04:14,655
+Florian Gasser: Wenn es also jetzt 15,5 Milliarden werden, dann reden wir von einem Realverlust von 2,5 Milliarden Euro.
+
+66
+00:04:14,675 --> 00:04:21,360
+Lenz Jacobsen: Naja gut, also Matthias hat es ja schon angedeutet, dass die Unis selber bzw. deren Cheflobbyistin, die natürlich auch noch Wissenschaftlerin ist,
+
+67
+00:04:22,621 --> 00:04:26,064
+Lenz Jacobsen: dass sie viel Geld brauchen, das ist ja nun nicht ungewöhnlich.
+
+68
+00:04:26,084 --> 00:04:31,129
+Lenz Jacobsen: Vielleicht sind das auch nicht die einzig Richtigen, um festzulegen, wie viel Geld sie denn bekommen sollen.
+
+69
+00:04:31,169 --> 00:04:36,434
+Lenz Jacobsen: Also wenn die Empfänger und Empfängerinnen darüber entscheiden könnten, das wäre vielleicht keine ganz so kluge Idee.
+
+70
+00:04:36,474 --> 00:04:46,283
+Lenz Jacobsen: Also das Verfahren, dass da andere Leute darüber entscheiden, wie das Steuergeld verteilt wird und nicht diejenigen, die darauf angewiesen sind oder die darauf Ansprüche anmelden, das...
+
+71
+00:04:46,924 --> 00:04:48,952
+Lenz Jacobsen: finde ich, hat ja schon auch ganz gute Gründe.
+
+72
+00:04:49,253 --> 00:04:50,116
+Florian Gasser: Total, ja klar.
+
+73
+00:04:50,156 --> 00:04:59,513
+Florian Gasser: Und weil ich von Wuschel geredet habe, es ist schon so, dass die Unis in Österreich am Limit arbeiten und wenn man sich die Budgets der vergangenen 20, 30,
+

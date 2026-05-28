@@ -1,0 +1,586 @@
+[
+ {
+  "start": 0.411,
+  "end": 4.595,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Wir fragen, warum eigentlich und wie werden sie überhaupt finanziert?",
+  "marker": ""
+ },
+ {
+  "start": 4.615,
+  "end": 7.157,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Gerade in Österreich gibt es dafür einen Anlass.",
+  "marker": ""
+ },
+ {
+  "start": 7.197,
+  "end": 12.742,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Und wir reden im zweiten Thema darüber, dass Matthias echt die Hutschnur platzt.",
+  "marker": ""
+ },
+ {
+  "start": 12.762,
+  "end": 14.163,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Wie sagt man?",
+  "marker": ""
+ },
+ {
+  "start": 14.183,
+  "end": 16.165,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Der Kragen platzt, die Hutschnur geht.",
+  "marker": ""
+ },
+ {
+  "start": 16.185,
+  "end": 17.205,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Der Hut geht hoch.",
+  "marker": "✎ war Matthias Daum (akustisch Florian Gasser 94%)"
+ },
+ {
+  "start": 17.406,
+  "end": 20.869,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Nein, die Hutschnur platzt, der Hut lupft einem unter Kragen.",
+  "marker": ""
+ },
+ {
+  "start": 20.909,
+  "end": 22.07,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Die Hutschnur platzt.",
+  "marker": "⚠ unsicher 11%"
+ },
+ {
+  "start": 26.832,
+  "end": 35.236,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Der Wutbürger Daum möchte seinen Enger managen, indem er uns erzählt, dass alles besser wird, was die Buchung internationaler Zugverbindungen angeht.",
+  "marker": ""
+ },
+ {
+  "start": 35.256,
+  "end": 38.297,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Nach dieser kryptischen Ankündigung wirst du uns aufklären müssen.",
+  "marker": ""
+ },
+ {
+  "start": 38.317,
+  "end": 42.859,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Wir sind erreichbar unter alpenzeit.de per Mail und per Sprachnachricht an die WhatsApp-Nummer.",
+  "marker": ""
+ },
+ {
+  "start": 43.099,
+  "end": 45.903,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "in den Shownotes.",
+  "marker": ""
+ },
+ {
+  "start": 45.923,
+  "end": 49.208,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Und wir haben diesmal tatsächlich auch keinerlei Ankündigungen mehr zu treffen.",
+  "marker": ""
+ },
+ {
+  "start": 49.228,
+  "end": 51.351,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Dass wir in Graz sind, wissen ja, glaube ich, mittlerweile alle.",
+  "marker": ""
+ },
+ {
+  "start": 51.371,
+  "end": 52.953,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Und ausverkauft ist das.",
+  "marker": ""
+ },
+ {
+  "start": 53.514,
+  "end": 54.436,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Ich freue mich schon sehr.",
+  "marker": ""
+ },
+ {
+  "start": 54.476,
+  "end": 55.938,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Ich werde mit dem Fahrrad kommen.",
+  "marker": ""
+ },
+ {
+  "start": 55.978,
+  "end": 57.841,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Sollten wir nicht mal bald über Fußball sprechen?",
+  "marker": "✎ war Lenz Jacobsen (akustisch Matthias Daum 98%)"
+ },
+ {
+  "start": 58.421,
+  "end": 59.282,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Nein.",
+  "marker": "⚠ unsicher 42%"
+ },
+ {
+  "start": 59.322,
+  "end": 60.723,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Ich glaube, Florian freut sich schon.",
+  "marker": ""
+ },
+ {
+  "start": 60.763,
+  "end": 62.844,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Sollen wir über Fußball sprechen, Florian?",
+  "marker": "⚠ Overlap, evtl. Florian Gasser"
+ },
+ {
+  "start": 62.864,
+  "end": 65.066,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Wir müssen nicht zu früh anfangen mit dem Schmus.",
+  "marker": ""
+ },
+ {
+  "start": 65.086,
+  "end": 66.547,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Das geht ja auch nur ewig, oder?",
+  "marker": ""
+ },
+ {
+  "start": 67.167,
+  "end": 69.549,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Stimmt.",
+  "marker": "✎ war Florian Gasser (akustisch Matthias Daum 98%)"
+ },
+ {
+  "start": 69.569,
+  "end": 72.611,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Du meinst, du solltest erst darüber sprechen, wenn es Österreich ins Finale geschafft hat.",
+  "marker": ""
+ },
+ {
+  "start": 72.931,
+  "end": 75.413,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Nein, ich würde mich sogar aufs Viertelfinale einlassen.",
+  "marker": ""
+ },
+ {
+  "start": 76.434,
+  "end": 77.795,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Okay, wir werden dich daran erinnern.",
+  "marker": "⚠ Overlap, evtl. Lenz Jacobsen"
+ },
+ {
+  "start": 82.858,
+  "end": 86.08,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Hallo, ich bin Monika Pielert und zuständig für unsere Nachrichten.",
+  "marker": ""
+ },
+ {
+  "start": 86.12,
+  "end": 95.726,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Wir sorgen mit einem Team von 60 festen und freien Mitarbeitenden dafür, dass Sie rund um die Uhr bestens aktuell informiert sind über alles, was in der Welt und in Deutschland passiert.",
+  "marker": ""
+ },
+ {
+  "start": 95.746,
+  "end": 99.348,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Egal, ob Sie uns hören, lesen oder unsere Live-Blogs verfolgen.",
+  "marker": ""
+ },
+ {
+  "start": 99.368,
+  "end": 101.89,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Ihr Vertrauen ist dabei unser Ansporn.",
+  "marker": ""
+ },
+ {
+  "start": 101.91,
+  "end": 104.872,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Mit Ihrem Abonnement finanzieren Sie unseren Journalismus.",
+  "marker": ""
+ },
+ {
+  "start": 104.892,
+  "end": 109.555,
+  "label": "SPEAKER_00",
+  "name": "Monika Pielert",
+  "text": "Alle Infos dazu finden Sie auf www.zeit.de slash abonnieren.",
+  "marker": ""
+ },
+ {
+  "start": 114.682,
+  "end": 115.842,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Aber zuerst reden wir über die Unis.",
+  "marker": ""
+ },
+ {
+  "start": 115.862,
+  "end": 123.164,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Florian, bei euch soll das Budget für die Unis gekürzt werden und zwar so heftig, dass von einem Zitat Supergau die Rede ist.",
+  "marker": ""
+ },
+ {
+  "start": 123.204,
+  "end": 123.744,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Was ist da los?",
+  "marker": "⚠ sehr kurz"
+ },
+ {
+  "start": 124.204,
+  "end": 142.888,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Ja, also beim Wort Supergau hat es mich auch mal kurz gerüttelt, weil das sagen nicht irgendwie aufgeregte Aktivistinnen und Aktivisten oder die Hochschülerschaft, die ist ja auch oft so recht auf Radau, sondern in dem Fall war das die Rektorin der Kunstuni Linz, Brigitte Hütter, die übrigens auch, also die ist Präsidentin der Universitätenkonferenz.",
+  "marker": ""
+ },
+ {
+  "start": 143.548,
+  "end": 149.469,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Und was ist jetzt der Unterschied zwischen aufgeregten Studiaktivistinnen und der Cheflobbyistin der österreichischen Unis?",
+  "marker": ""
+ },
+ {
+  "start": 149.509,
+  "end": 155.511,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Ja, dass es halt schon am Ende eine Wissenschaftlerin ist, die jetzt normalerweise nicht mit Transparenten herumläuft.",
+  "marker": ""
+ },
+ {
+  "start": 155.551,
+  "end": 156.631,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Worum geht es denn?",
+  "marker": "✎ war Florian Gasser (akustisch Lenz Jacobsen 95%)"
+ },
+ {
+  "start": 156.791,
+  "end": 158.371,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Was soll der Super-GAU sein?",
+  "marker": "✎ war Florian Gasser (akustisch Lenz Jacobsen 84%)"
+ },
+ {
+  "start": 158.391,
+  "end": 160.012,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Von welchen Summen reden wir?",
+  "marker": ""
+ },
+ {
+  "start": 160.052,
+  "end": 167.114,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Also wir haben in diesem Podcast ja schon häufiger davon gesprochen, dass Österreich ein ziemlich großes Budgetproblem hat.",
+  "marker": ""
+ },
+ {
+  "start": 167.154,
+  "end": 168.794,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Also in Wahrheit ist es ein riesiges Budgetloch.",
+  "marker": ""
+ },
+ {
+  "start": 168.834,
+  "end": 170.574,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Es fehlen viele Milliarden.",
+  "marker": ""
+ },
+ {
+  "start": 170.614,
+  "end": 173.055,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Es gab jetzt schon mal ein Doppelbudget.",
+  "marker": ""
+ },
+ {
+  "start": 173.875,
+  "end": 180.499,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Da wurde gespart und jetzt kommt das nächste Doppelbudget, das soll vor dem Sommer noch beschlossen werden für 27, 28.",
+  "marker": ""
+ },
+ {
+  "start": 180.559,
+  "end": 184.881,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Es wird wieder ein Sparbudget und es geht ans Eingemachte.",
+  "marker": ""
+ },
+ {
+  "start": 184.941,
+  "end": 199.008,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Und vergangene Woche wurde bekannt, oder es wurde bekannt, es ist zu viel, sagen wir mal so, es kamen nicht sehr heftig dementierte Gerüchte auf, nachdem die öffentlichen Universitäten für die nächsten drei Jahre eine Milliarde Euro weniger bekommen sollen.",
+  "marker": ""
+ },
+ {
+  "start": 199.65,
+  "end": 203.692,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Aber du hast das jetzt so selbstverständlich gesagt, dass es ein massives Budgetproblem gäbe.",
+  "marker": ""
+ },
+ {
+  "start": 203.712,
+  "end": 205.433,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Da sprechen wir aber vom Bundeshaushalt.",
+  "marker": ""
+ },
+ {
+  "start": 205.633,
+  "end": 206.094,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Genau.",
+  "marker": "✎ war Lenz Jacobsen (akustisch Florian Gasser 92%)"
+ },
+ {
+  "start": 206.134,
+  "end": 209.075,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Das heißt, die Universitäten werden bei euch vom Bund finanziert?",
+  "marker": ""
+ },
+ {
+  "start": 209.115,
+  "end": 210.756,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Zum überwältigenden Teil, ja.",
+  "marker": ""
+ },
+ {
+  "start": 210.776,
+  "end": 212.798,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Und zwar immer auf drei Jahre.",
+  "marker": ""
+ },
+ {
+  "start": 212.838,
+  "end": 215.799,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Also zuletzt waren das 16,5 Milliarden Euro.",
+  "marker": ""
+ },
+ {
+  "start": 215.939,
+  "end": 222.123,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Und da sind wir aber, darüber reden wir ja noch, also das ist schon nach vielen Sparrunden am unteren Ende der Möglichkeiten.",
+  "marker": ""
+ },
+ {
+  "start": 222.683,
+  "end": 227.649,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Aber nur mal kurz, damit die da keine Missverständnisse aufkommen lassen oder von den selben Zahlen sprechen.",
+  "marker": ""
+ },
+ {
+  "start": 227.709,
+  "end": 233.736,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Also 16,5 Milliarden Euro, das wären dann aufs Jahr gerechnet 5,5 Milliarden Euro.",
+  "marker": ""
+ },
+ {
+  "start": 233.756,
+  "end": 234.236,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Genau.",
+  "marker": "⚠ unsicher 8%"
+ },
+ {
+  "start": 234.276,
+  "end": 236.158,
+  "label": "SPEAKER_01",
+  "name": "Matthias Daum",
+  "text": "Also etwas mehr als 5 Milliarden Franken.",
+  "marker": ""
+ },
+ {
+  "start": 236.238,
+  "end": 238.161,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Genau, genau, genau.",
+  "marker": ""
+ },
+ {
+  "start": 238.181,
+  "end": 242.806,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Die Unis sagen, wegen Inflation und Teuerung bräuchten sie eigentlich 18 Milliarden.",
+  "marker": ""
+ },
+ {
+  "start": 243.947,
+  "end": 248.971,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Für die nächsten drei Jahre, um so im Grunde weiter zu wurschteln können wie bisher.",
+  "marker": ""
+ },
+ {
+  "start": 248.991,
+  "end": 254.655,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Wenn es also jetzt 15,5 Milliarden werden, dann reden wir von einem Realverlust von 2,5 Milliarden Euro.",
+  "marker": ""
+ },
+ {
+  "start": 254.675,
+  "end": 261.36,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Naja gut, also Matthias hat es ja schon angedeutet, dass die Unis selber bzw. deren Cheflobbyistin, die natürlich auch noch Wissenschaftlerin ist,",
+  "marker": ""
+ },
+ {
+  "start": 262.621,
+  "end": 266.064,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "dass sie viel Geld brauchen, das ist ja nun nicht ungewöhnlich.",
+  "marker": ""
+ },
+ {
+  "start": 266.084,
+  "end": 271.129,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Vielleicht sind das auch nicht die einzig Richtigen, um festzulegen, wie viel Geld sie denn bekommen sollen.",
+  "marker": ""
+ },
+ {
+  "start": 271.169,
+  "end": 276.434,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Also wenn die Empfänger und Empfängerinnen darüber entscheiden könnten, das wäre vielleicht keine ganz so kluge Idee.",
+  "marker": ""
+ },
+ {
+  "start": 276.474,
+  "end": 286.283,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "Also das Verfahren, dass da andere Leute darüber entscheiden, wie das Steuergeld verteilt wird und nicht diejenigen, die darauf angewiesen sind oder die darauf Ansprüche anmelden, das...",
+  "marker": ""
+ },
+ {
+  "start": 286.924,
+  "end": 288.952,
+  "label": "SPEAKER_03",
+  "name": "Lenz Jacobsen",
+  "text": "finde ich, hat ja schon auch ganz gute Gründe.",
+  "marker": ""
+ },
+ {
+  "start": 289.253,
+  "end": 290.116,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Total, ja klar.",
+  "marker": ""
+ },
+ {
+  "start": 290.156,
+  "end": 299.513,
+  "label": "SPEAKER_02",
+  "name": "Florian Gasser",
+  "text": "Und weil ich von Wuschel geredet habe, es ist schon so, dass die Unis in Österreich am Limit arbeiten und wenn man sich die Budgets der vergangenen 20, 30,",
+  "marker": ""
+ }
+]

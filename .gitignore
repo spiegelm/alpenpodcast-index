@@ -1,0 +1,15 @@
+# Lokale Podcast-Datenbank-Backups (privat, groß)
+*.db
+
+# Medien: urheberrechtlich geschütztes ZEIT-Audio + daraus abgeleitetes Video/WAV
+# NICHT weiterverbreiten -> nicht versionieren
+*.mp3
+*.wav
+*.mp4
+
+# Scratch / Logs
+transcripts/*.log
+.newest_url
+
+# Lokaler Claude-Code-State
+.claude/
